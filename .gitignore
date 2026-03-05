@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Generated audio chunks
+*.wav
+
+# Generated transcription and embedding output
+transcription.txt
+grouped_chunks.txt
+clearnertext.txt

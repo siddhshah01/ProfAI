@@ -1,0 +1,24 @@
+# Core
+numpy>=1.26
+python-dotenv>=1.0.0
+
+# Hugging Face
+huggingface-hub>=0.23.0
+
+# Audio I/O
+sounddevice>=0.4.6
+soundfile>=0.12.1
+scipy>=1.11
+
+# Speech-to-text
+openai-whisper>=20250625
+
+# ML / Torch (Apple Silicon compatible)
+torch>=2.2
+tiktoken>=0.7.0
+
+# Optional but recommended
+setuptools-rust>=1.9.0
+
+
+nltk
