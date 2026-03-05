@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 **3. Add your HuggingFace API token**
 
-Create a `.env` file in the project root:
+Create a `.env` file in the project root from the `.env.example` skeleton:
 ```
 HF_TOKEN=your_huggingface_token_here
 ```
